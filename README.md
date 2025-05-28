@@ -1,4 +1,4 @@
-<h1>🛡️ RPG Battle - Python Game</h1>
+<h1>🛡️ RPG Battle - Python Game(Terminal)</h1>
 
 A simple turn-based battle game in Python. The player controls a hero and faces an enemy in a fight, choosing between normal and special attacks.
 
